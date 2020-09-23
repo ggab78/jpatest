@@ -23,6 +23,7 @@
         <version>5.4.17.Final</version>
     </dependency>
 
+
     <!--potrzebne-->
   <dependency>
         <groupId>org.hibernate.javax.persistence</groupId>
